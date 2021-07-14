@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreas K. Brandhøj</h1>
-<h3 align="center">A passionate full stack developer from Denmark, currently studying Software at AAU.</h3>
+<h3 align="center">A passionate full stack developer from Denmark, currently studying Software at Aalborg University.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
